@@ -21,7 +21,7 @@ plaintext
 
 ## 🚀 How to Run the Tool Locally
 1.  Clone this repository to your local machine
-git clone [https://github.com/你的 GitHub 用户名 / ACC102-Track4-AAPL-Financial-Analysis.git](https://github.com/YawenDing24/ACC102-Track4-AAPL-Financial-Analysis)
+git clone [[https://github.com/YawenDing24/ACC102-Track4-AAPL-Financial-Analysis.git]
 plaintext
 2.  Navigate to the project folder
 cd ACC102-Track4-AAPL-Financial-Analysis
